@@ -1,0 +1,16 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+*/demo_fastq/*.fastq.gz
+*/qc_reports/
+*.g.vcf.gz
+*.vcf.gz.tbi
+
+# OS files
+.DS_Store
